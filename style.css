@@ -1,0 +1,19 @@
+body{
+    color:darkslategray;
+}
+h2{
+    color:blueviolet;
+    text-decoration: underline;
+    text-align: center;
+}
+.test{
+    height:200px;
+    width:200px;
+    background:red;
+    margin: auto;
+}
+span{
+    width:100px;
+    margin:auto;
+    display: block;
+}
